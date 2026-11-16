@@ -1,5 +1,3 @@
-# Beyond Social Media: Why I Decided to Build My Own Technical Blog
-
 ## The Noise of Social Media
 
 We live in a world where information is constantly being shared, consumed, and forgotten. Social media has made it easier than ever to express ideas, but I often find that meaningful thoughts deserve more than a few lines in a post.
